@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Kuba
- *
- */
-module fsdf {
-}
