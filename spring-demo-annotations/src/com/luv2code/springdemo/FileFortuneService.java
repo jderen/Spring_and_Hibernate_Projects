@@ -8,6 +8,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
+import javax.annotation.PostConstruct;
+
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 
@@ -24,6 +26,11 @@ private List<String> theFortunes;
 Random myRandom=new Random();
 
 public FileFortuneService() {
+	System.out.println(">> FileFortuneService inside default constructor");
+}
+
+@PostConstruct
+public void readFirstFile() {
 	
 	File theFile=new File(fileName);
 	System.out.println("Reading fortunes from file: " + theFile);
