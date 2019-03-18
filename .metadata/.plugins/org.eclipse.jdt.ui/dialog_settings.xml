@@ -67,7 +67,7 @@
 		<item value="678" key="DIALOG_WIDTH"/>
 		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
 		<item value="889" key="DIALOG_HEIGHT"/>
-		<item value="157" key="DIALOG_X_ORIGIN"/>
+		<item value="127" key="DIALOG_X_ORIGIN"/>
 		<item value="9" key="DIALOG_Y_ORIGIN"/>
 	</section>
 	<section name="RefactoringWizard.preview">
@@ -84,6 +84,8 @@
 		<item value="0" key="index"/>
 	</section>
 	<section name="quick_assist_proposal_size">
+		<item value="314" key="size.y"/>
+		<item value="446" key="size.x"/>
 	</section>
 	<section name="BuildPathsPropertyPage">
 		<item value="2" key="pageIndex"/>
