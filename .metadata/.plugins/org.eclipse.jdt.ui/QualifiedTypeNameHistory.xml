@@ -34,4 +34,7 @@
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.InitBinder"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.WebDataBinder"/>
 <fullyQualifiedTypeName name="org.springframework.beans.propertyeditors.StringTrimmerEditor"/>
+<fullyQualifiedTypeName name="javax.validation.constraints.Min"/>
+<fullyQualifiedTypeName name="javax.validation.constraints.Max"/>
+<fullyQualifiedTypeName name="javax.validation.constraints.Pattern"/>
 </qualifiedTypeNameHistroy>
