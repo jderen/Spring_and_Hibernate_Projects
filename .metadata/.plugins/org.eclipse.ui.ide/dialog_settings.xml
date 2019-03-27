@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\Kuba\Downloads\solution-code-hibernate-crud (1)\solution-code-hibernate-crud"/>
+		<item value="C:\Users\Kuba\Downloads\solution-code-hibernate-crud (1)"/>
 		<item value="C:\Users\Kuba\Documents\eclipse-workspace\Spring_and_Hibernate_Projects\spring-mvc-demo"/>
 	</list>
 	<section name="CleanDialogSettings">
