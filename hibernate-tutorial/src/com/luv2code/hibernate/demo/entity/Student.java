@@ -10,6 +10,7 @@ import javax.persistence.Table;
 public class Student {
 
 	@Id
+	@GeneratedValue(strategy=GenerationType.IDENTITY)
 	@Column(name="id")
 	private int id;
 	
